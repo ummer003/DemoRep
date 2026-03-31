@@ -1,0 +1,16 @@
+{
+    "data" : [
+        {
+            "url" : "https://testapps.trainery.one/",
+            "userEmail" : "ummer.tst@yopmail.com",
+            "userID" : "um00001",
+            "userPassword" : "Trainery12!"
+        },
+        {
+            "url" : "https://testapps.trainery.one/",
+            "userEmail" : "clientadmin@yopmail.com",
+            "userID" : "test1",
+            "userPassword" : "April15@2024"
+        }
+    ]
+}
