@@ -13,6 +13,13 @@
             "password" : "Learning@830$3mK2",
             "itemName" : "Nokia Edge",
             "countryName" : "India"
+        },
+        {
+            "url" : "https://rahulshettyacademy.com/loginpagePractise/",
+            "username" : "rahulshettyacademy",
+            "password" : "Learning@830$3mK2",
+            "itemName" : "Blackberry",
+            "countryName" : "India"
         }
     ]
 }
